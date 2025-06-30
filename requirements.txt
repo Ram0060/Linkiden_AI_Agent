@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain_community
+langchain_core
+langchain_groq
+langchain_openai
+chroma
+streamlit
+tavily-python 
+openai 
+chromadb 
+tiktoken
+python-dotenv
+kor 
+selenium
+beautifulsoup4
+requests 
